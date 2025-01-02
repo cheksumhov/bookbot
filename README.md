@@ -1,2 +1,1 @@
-# bookbot
-A bot for parsing books.
+BookBot is my first project!
